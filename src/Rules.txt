@@ -1,0 +1,14 @@
+Stage Start
+	Speed: DZ60/ FZ
+	Stop
+	Special Start
+		Speed
+		Stop
+		Neutralized: Deduct time spent in Neutral Zone. This has a cap
+	Special End
+	Speed
+	Stop
+Stage End
+
+
+

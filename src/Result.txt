@@ -1,0 +1,21 @@
+Race Name:	2016 Amageza Rallye
+Stage Date:	2016-09-30
+Stage Distance: 285 km
+-------------------------------
+Distance:	312 km
+Stage:		08:10
+Special:	08:05
+Penalty:	00:25
+Total:		08:30
+------------------------------
+
+Name		Description		Timestamp		Penalty		Note
+14034_002	Stage Start		2016-09-30 06:30	
+14034_003	Special Start		2016-09-30 06:35			
+14034_110	Speed			2016-09-30 08:35	00:10		Limit 80. Actual 95.
+14034_166	Missed						00:15
+14034_344	Special End		2016-09-30 14:40
+14034_345	Stage End		2016-09-30 14:40
+
+
+
